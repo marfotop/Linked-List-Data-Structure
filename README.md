@@ -1,2 +1,3 @@
 # Linked-List-Data-Structure
-A C++ program that implements a singly-linked list
+
+A C++ code that defines a templated linked list class, Chain, which allows for insertion, deletion, searching, and counting elements in the list. It also has a method to remove duplicate nodes from the list and another to sort the list using a bin sort algorithm. The class contains a private member first, which points to the first node in the list, and each node contains a data member and a link member that points to the next node in the list. The class also includes various error handling measures to prevent out of bounds errors and exceptions due to insufficient memory.
